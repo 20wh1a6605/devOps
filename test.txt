@@ -1,0 +1,2 @@
+git commands - 
+push,pull,init,branch,branch-d,branch-a,merge,checkout,clone,log,remote,stash,add,commit,confiig,status
